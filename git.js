@@ -70,7 +70,3 @@ function handleclick() {
 }
 
 Button.addEventListener("click", handleclick);
-
-/*<span class="texst">
-    <div class="out">TEXT</div><button>X</button><button>adjust</button>
-</span>*/
